@@ -1,7 +1,7 @@
 # Student Industry Capstone Project Management System
 
 ## Installation/User document/manual
-### Environment:
+### **Environment:**
 #### Backend:
 
 ```
@@ -15,7 +15,7 @@
 
 1. Install node.js and npm
 
-#### envsample file
+#### Envsample file
 
 ```
   DATABASE_URI=postgresql://postgres:Yj042889@localhost:5432/postgres
@@ -31,7 +31,7 @@
   MAIL_PASSWORD=nxyevhedviufbecc
 ```
 
-### step
+### **Step**
 ```
 1. cd backend
 2. Python -m flask run
