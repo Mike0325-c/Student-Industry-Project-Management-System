@@ -39,11 +39,3 @@
 4. npm install
 5. npm start
 ```
-
-
-
-
-
-
-
-
