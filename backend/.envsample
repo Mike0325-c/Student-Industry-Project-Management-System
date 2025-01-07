@@ -1,4 +1,4 @@
-DATABASE_URI=postgresql://postgres:Yj042889@localhost:5432/postgres
+DATABASE_URI=postgresql://postgres:Yj042889@localhost:5432/postgres (change it to your password)
 JWT_SECRET_KEY=iKun3900
 MAIL_SERVER=smtp.qq.com
 MAIL_PORT=465
